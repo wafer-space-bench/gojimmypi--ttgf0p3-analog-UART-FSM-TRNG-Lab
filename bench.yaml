@@ -1,0 +1,28 @@
+source:
+  url: https://github.com/gojimmypi/ttgf0p3-analog-UART-FSM-TRNG-Lab
+  original_url: null
+  kind: fork
+  why: GitHub fork of the upstream repository
+  licence: null
+  upstream_default_branch: main
+tapeouts:
+- org: tinytapeout
+  run: ttgf0p3
+  slot: tt_um_gojimmypi_ttgfa_UART_FSM_TRNG_Lab_analog
+  project: 'Hardware Entropy Explorer: UART/SPI TRNG and PUF (Analog)'
+  size: 1x2
+  kind: analog
+  commit: 3f7c4a51fe62e0f50f0206838938026e3a5d9cc2
+  commit_source: commit from the shuttle repo's projects/<name>/commit_id.json
+  tag: tinytapeout/ttgf0p3/tt_um_gojimmypi_ttgfa_UART_FSM_TRNG_Lab_analog
+  branch: tapeout/tinytapeout/ttgf0p3/tt_um_gojimmypi_ttgfa_UART_FSM_TRNG_Lab_analog
+  page: https://app.tinytapeout.com/shuttles/ttgf0p3
+generated: '2026-10-17T23:42:23Z'
+tooling: https://github.com/wafer-space/wafer.space-bench
+index: https://wafer-space-bench.github.io
+branches:
+- about
+- tapeout/tinytapeout/ttgf0p3/tt_um_gojimmypi_ttgfa_UART_FSM_TRNG_Lab_analog
+- upstream/8de9ce85
+- upstream/dev
+- upstream/main
